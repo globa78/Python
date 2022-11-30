@@ -1,5 +1,4 @@
 # Реализуйте RLE алгоритм: реализуйте модуль сжатия и восстановления данных.
-# На сжатие входные данные: WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW
 s = input("Введите текст для кодировки: ")
 
 
